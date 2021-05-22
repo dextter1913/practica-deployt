@@ -12,7 +12,7 @@
     <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4"></div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-            <form action="" method="post">
+            <form action="cosas.php" method="post">
                 <label for="Nombre">Nombre</label>
                 <input type="text" name="Nombre" id="Nombre" class="form-control">
                 <label for="Apellido">Apellido</label>
